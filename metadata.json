@@ -1,0 +1,6 @@
+{
+  "name": "VV Motivation Editor",
+  "description": "Professional video editor for motivational reels, shorts, 3D typography, multi-layer timelines, audio waveforms, AI auto-captions, and filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
